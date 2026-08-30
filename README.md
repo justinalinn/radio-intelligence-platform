@@ -106,6 +106,12 @@ Decoder → ingestion → transcription → normalization → incident detection
 
 ---
 
+## Related Project
+
+[SDR Scanner Platform](https://github.com/justinalinn/sdr-scanner-platform) is the real-time C++20 acquisition and signal-processing system: wideband sweep planning, adaptive detection, multichannel VFOs, digital protocol analysis, physical-emitter fingerprinting, and predictive scheduling. Its public repository contains a capability, architecture, and validation overview while the application source remains private.
+
+---
+
 ## License
 
 MIT
